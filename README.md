@@ -1,5 +1,8 @@
 # Mini Tools Documentation
 
+Mini-tools repo is created to develop APIs for tools that can directly be used by consumers by a simple API call and hence, reduce their development time. The backend doesn't store any personal data of the users and hence, is totally secure. The steps on how to access and use the APIs are mentioned below. In case of any queries or feedback, feel free to reach out at:  
+**nidhi.business.infotech@gmail.com**
+
 ## Mini Tools – Implementation Guide
 
 To get access to a Mini Tool API, the user must first complete a payment for the respective tool.
@@ -10,9 +13,6 @@ Once the payment is successful, an **API key** is provided via a **redirect resp
 - The API key is **non-retrievable**
 - Refreshing the redirect page will permanently remove the key
 - Please **store the API key securely**
-
-For queries or feedback, reach out at:  
-**nidhi.business.infotech@gmail.com**
 
 ---
 
